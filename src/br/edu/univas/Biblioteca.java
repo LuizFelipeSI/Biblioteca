@@ -137,7 +137,7 @@ public class Biblioteca {
                         }
                     }
                     writer.close();
-                    System.out.println("livro(s) excluído");
+                    System.out.println("livro excluído");
 
                 } else {
                     System.out.println("livro não encontrado");
